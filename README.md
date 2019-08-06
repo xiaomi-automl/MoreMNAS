@@ -26,3 +26,14 @@ Here are some results of MoreMNAS-A on Set 14. The complete result can be genera
 ![MoreMNAS-A set14 1](images/MoreMNAS-A/Set14/img_001_SRF_2_SR.png "MoreMNAS-A set14 001")
 
 ![MoreMNAS-A set14 2](images/MoreMNAS-A/Set14/img_005_SRF_2_SR.png "MoreMNAS-A set14 002")
+
+## Citation
+
+Your citation is welcomed!
+
+    @article{chu2019multi,
+      title={Multi-objective reinforced evolution in mobile neural architecture search},
+      author={Chu, Xiangxiang and Zhang, Bo and Xu, Ruijun and Ma, Hailong},
+      journal={arXiv preprint arXiv:1901.01074},
+      year={2019}
+    }
