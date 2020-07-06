@@ -21,11 +21,20 @@ $ python calculate.py --pb_path ./pretrained_model/MoreMNAS-A.pb
 
 ## Qualitative results
 
-Here are some results of MoreMNAS-A on Set 14. The complete result can be generated from the above mentions command.
+Here are some results of MoreMNAS models vs. VDSR on Set 5. The complete result can be generated from the above mentions command. 
 
-![MoreMNAS-A set14 1](images/MoreMNAS-A/Set14/img_001_SRF_2_SR.png "MoreMNAS-A set14 001")
+![Comparison with VDSR](images/sr_comparison_x2.png "Comparison with VDSR")
 
-![MoreMNAS-A set14 2](images/MoreMNAS-A/Set14/img_005_SRF_2_SR.png "MoreMNAS-A set14 002")
+
+
+## Related Work
+
+| method | url |  language |  Official |
+|--- | ---| ----| ----|
+| SRCNN  | http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html | Matlab, Caffe| Yes |
+| FSRCNN | http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html | Matlab, Caffe |  Yes |
+| DRRN   | https://github.com/tyshiwo/DRRN_CVPR17 | Caffe | Yes |
+| VDSR   | https://github.com/twtygqyy/pytorch-vdsr | Pytorch | Yes |
 
 ## Citation
 
